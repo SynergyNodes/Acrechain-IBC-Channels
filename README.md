@@ -20,16 +20,16 @@ channel-14 to EVMOS
 
 ##Channels from Destination Chain to Acrechain Mainnet
 ```
-Osmosis channel-490 to Acrechain Mainnet
-Injective channel-91 to Acrechain Mainnet
-Stargaze channel-121 to Acrechain Mainnet
-Axelar channel-51 to Acrechain Mainnet
-Gavity Bridge channel-106 to Acrechain Mainnet
-Kujia channel-47 to Acrechain Mainnet
-CosmosHub channel-457 to Acrechain Mainnet
-Terra V2 channel-77 to Acrechain Mainnet
-Oraichain channel-33 to Acrechain Mainnet
-Terra Classic channel-69 to Acrechain Mainnet
-Stride channel-57 to Acrechain Mainnet
-EVMOS channel-40 to Acrechain Mainnet
+channel-490 from Osmosis
+channel-91 from Injective
+channel-121 from Stargaze
+channel-51 from Axelar
+channel-106 from Gavity Bridge
+channel-47 from Kujia
+channel-457 from CosmosHub
+channel-77 from Terra V2
+channel-33 from Oraichain
+channel-69 from Terra Classic
+channel-57 from Stride
+channel-40 from EVMOS
 ```
