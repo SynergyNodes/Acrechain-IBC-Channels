@@ -2,7 +2,7 @@
 List of IBC Channels between Acrechain and other Cosmos Chains
 
 
-##Acrechain Mainnet channels to Destination Chain
+## Acrechain Mainnet channels to Destination Chain
 ```
 channel-0 to Osmosis
 channel-2 to Injective
@@ -18,7 +18,7 @@ channel-13 to Stride
 channel-14 to EVMOS
 ```
 
-##Channels from Destination Chain to Acrechain Mainnet
+## Channels from Destination Chain to Acrechain Mainnet
 ```
 channel-490 from Osmosis
 channel-91 from Injective
