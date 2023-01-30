@@ -1,4 +1,4 @@
-# Acrechain-IBC-Channels
+# Acrechain IBC Channels
 List of IBC Channels between Acrechain and other Cosmos Chains
 
 
