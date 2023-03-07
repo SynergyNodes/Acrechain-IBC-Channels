@@ -18,7 +18,7 @@ channel-13 to Stride
 channel-14 to EVMOS
 ```
 
-## Channels from Destination Chain to Acrechain Mainnet
+## Channels from Source Chain to Acrechain Mainnet
 ```
 channel-490 from Osmosis
 channel-91 from Injective
